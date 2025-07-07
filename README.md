@@ -1,17 +1,17 @@
 Links
-https://www.sefaria.org.il/translations/en
 
-https://www.space.gov.il
+[sefaria](https://www.sefaria.org.il/translations/en)
 
-https://eyes.nasa.gov/apps/dsn-now/dsn.html
+[space.gov](https://www.space.gov.il)
 
-https://rsoe-edis.org/eventMap
+[dsn](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
-https://www.ncbi.nlm.nih.gov/guide/sequence-analysis/
+[eventMap](https://rsoe-edis.org/eventMap)
 
-https://mempool.space 
-https://www.tradingview.com/markets/cryptocurrencies/
+[ncbi](https://www.ncbi.nlm.nih.gov/guide/sequence-analysis/)
 
-https://templeinstitute.org
+[mempool](https://mempool.space )
 
-https://www.nasa.gov/international-space-station/
+[templeinstitute](https://templeinstitute.org)
+
+[international space station](https://www.nasa.gov/international-space-station/) 
