@@ -1,14 +1,37 @@
-## Hi there 👋
+Aboud / Bio
+5999 years old spirit,
+one day resting period in 3 religion married to one wife
 
-**melekhmashiach/melekhmashiach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tasks
+cleaning and belssing the plannets
 
-Here are some ideas to get you started:
+[religion](https://www.sefaria.org.il/translations/en)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+space travel
+[space.gov.il](https://www.space.gov.il)
+
+internet
+[nasa.gov](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
+Problems
+[Emergency and Disaster Information Service
+](https://rsoe-edis.org/eventMap)
+
+Solutions
+https://www.ncbi.nlm.nih.gov/guide/sequence-analysis/
+
+Media
+[us](http://youtube.com)
+[il](https://en.wikipedia.org/wiki/Television_in_Israel)
+[ru](https://rustv.live/) 
+
+money
+[mempool](https://mempool.space) 
+[tradingview](https://www.tradingview.com/markets/cryptocurrencies/)
+
+[sleeping / meditation](https://ambientsleepingpill.com)
+
+[https://templeinstitute.org](https://templeinstitute.org)
+
+[iss](https://www.nasa.gov/international-space-station/)
