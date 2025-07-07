@@ -16,4 +16,4 @@ Links
 
 [international space station](https://www.nasa.gov/international-space-station/) 
 
-dna string donation 16JVrADsvQJQieNBAckp7BRJpzP7bu47Wu space 🏳️
+[dna string](https://github.com/HazyResearch/hyena-dna) donation 16JVrADsvQJQieNBAckp7BRJpzP7bu47Wu space 🏳️
