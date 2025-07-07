@@ -17,3 +17,5 @@ Links
 [international space station](https://www.nasa.gov/wp-content/uploads/2023/05/iss-blowout-updated-view-2023-300.png)
 
 [dna string](https://github.com/HazyResearch/hyena-dna) donation 16JVrADsvQJQieNBAckp7BRJpzP7bu47Wu space 🏳️
+
+[wiki](https://github.com/melekhmashiach/melekhmashiach/wiki)
