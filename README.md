@@ -1,6 +1,6 @@
 Links
 
-[sefaria](https://www.sefaria.org.il/translations/en) [Etz Chaim](https://www.sefaria.org/Sefer_Etz_Chaim?tab=contents) 
+[sefaria](https://www.sefaria.org.il/translations/en) [Etz Chaim](https://www.sefaria.org/Sefer_Etz_Chaim?tab=contents) [Zohar](https://www.sefaria.org/Zohar?tab=contents)
 
 [space.gov](https://www.space.gov.il)
 
