@@ -12,7 +12,7 @@ Links
 
 [mempool](https://mempool.space )
 
-[templeinstitute](https://templeinstitute.org)
+[thekotel](https://thekotel.org/he/) [templeinstitute](https://templeinstitute.org)
 
 [international space station](https://www.nasa.gov/wp-content/uploads/2023/05/iss-blowout-updated-view-2023-300.png)
 
