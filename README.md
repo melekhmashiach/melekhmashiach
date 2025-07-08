@@ -25,3 +25,5 @@ books : [microbial research](https://www.nasa.gov/wp-content/uploads/2021/10/mic
 podcasts : [IDF](https://www.idf.il/en/mission-brief-podcast/) [Unholy](https://www.youtube.com/@Unholy-media/podcasts) [nasa](https://www.nasa.gov/podcasts/)
 
 tv : [bvn](https://www.bvn.tv/tv-gids/) [tv10](https://vod.tv10.co.il/) [nhk](https://www3.nhk.or.jp/nhkworld/en/live/)
+
+radio : [npo](https://npo.nl/luister)
