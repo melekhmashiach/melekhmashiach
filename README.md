@@ -22,8 +22,3 @@ Links
 
 books : [microbial research](https://www.nasa.gov/wp-content/uploads/2021/10/microbial_research_2021_tagged.pdf) [genelab](https://www.nasa.gov/wp-content/uploads/2018/05/np-2017-06-020-jsc_a_researchers_guide_to_genelab-tagged_0.pdf) [governing the moon](https://www.nasa.gov/wp-content/uploads/2025/02/governing-the-moon-sp-2024-4559-ebook.pdf) 
 
-podcasts : [IDF](https://www.idf.il/en/mission-brief-podcast/) [Unholy](https://www.youtube.com/@Unholy-media/podcasts) [nasa](https://www.nasa.gov/podcasts/)
-
-tv : [bvn](https://www.bvn.tv/tv-gids/) [tv10](https://vod.tv10.co.il/) [nhk](https://www3.nhk.or.jp/nhkworld/en/live/)
-
-radio : [npo](https://npo.nl/luister) [103fm](https://103fm.maariv.co.il) [radiozvezda](https://radiozvezda.ru)
