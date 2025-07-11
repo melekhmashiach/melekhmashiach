@@ -10,8 +10,6 @@ Links
 
 [ncbi](https://www.ncbi.nlm.nih.gov/guide/sequence-analysis/)
 
-[mempool](https://mempool.space )
-
 [thekotel](https://thekotel.org/he/) [templeinstitute](https://templeinstitute.org)
 
 mariage in jerusalem 
