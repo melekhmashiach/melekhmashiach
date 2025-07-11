@@ -4,7 +4,7 @@ Links
 
 [space.gov](https://www.space.gov.il)  ✅
 
-[dsn](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+[dsn](https://eyes.nasa.gov/apps/dsn-now/dsn.html) ✅
 
 [eventMap](https://rsoe-edis.org/eventMap)
 
