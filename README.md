@@ -24,4 +24,4 @@ books : [microbial research](https://www.nasa.gov/wp-content/uploads/2021/10/mic
 
  [science](https://www.science.co.il/) ✅
 
-education gold medal and nobel prise  ✅
+1 gold medal and 1 nobel prise  ✅
