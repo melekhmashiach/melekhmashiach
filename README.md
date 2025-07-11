@@ -2,7 +2,7 @@ Links
 
 [sefaria](https://www.sefaria.org.il/translations/en) [Etz Chaim](https://www.sefaria.org/Sefer_Etz_Chaim?tab=contents) [Zohar](https://www.sefaria.org/Zohar?tab=contents) [Bavli](https://www.sefaria.org/texts/Talmud/Bavli)-[Yerushalmi](https://www.sefaria.org/texts/Talmud/Yerushalmi) [kab](https://www.kab.co.il/) [divineinformation](https://divineinformation.com/) [prayer](https://www.youtube.com/@RabbiMarkZ/releases) ✅
 
-[space.gov](https://www.space.gov.il)
+[space.gov](https://www.space.gov.il)  ✅
 
 [dsn](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
