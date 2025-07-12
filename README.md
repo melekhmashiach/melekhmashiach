@@ -25,6 +25,4 @@ books : [microbial research](https://www.nasa.gov/wp-content/uploads/2021/10/mic
 
 [apolloarchive](https://apolloarchive.com/)
 
- [science](https://www.science.co.il/) ✅
-
-1 gold medal and 1 nobel prise  ✅
+https://www.timeanddate.com/time/map/
