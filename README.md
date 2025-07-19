@@ -26,6 +26,9 @@ books : [microbial research](https://www.nasa.gov/wp-content/uploads/2021/10/mic
 [apolloarchive](https://apolloarchive.com/)
 
 
+[Skywatching in July 2025
+](https://www.timeanddate.com/news/astronomy/night-sky-july-2025)
+
 [7–8 September 2025 Total Lunar Eclipse (Blood Moon)](https://www.timeanddate.com/eclipse/lunar/2025-september-7) 
 
 [21 September 2025 Partial Solar Eclipse](https://www.timeanddate.com/eclipse/solar/2025-september-21) 
