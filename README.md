@@ -1,5 +1,5 @@
 <p align="center">
-פרויקט הולי גייט - holly gate project - مشروع بوابة هولي
+האָללי גייט פּראָיעקט - holly gate project - مشروع بوابة هولي
 <p align="center">
 יום א Ffirst day اليوم الأول
 <p align="center">
