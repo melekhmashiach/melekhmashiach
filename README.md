@@ -1,4 +1,7 @@
+יום א 
 י״ד בתמוז תשפ״ה - ט״ו בתמוז תשפ״ה
+
+10 ביולי 2025 - 11 ביולי 2025 {Tuesday 15 july 2025 - Wendesday 16 July 2025}
 
 [rsoe-edis](https://rsoe-edis.org/eventMap)
 
