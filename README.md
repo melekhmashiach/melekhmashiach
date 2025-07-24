@@ -10,10 +10,7 @@
 Unix time() value: 1752105600
 </p>
 
-<p align="center">
 [religion-calendar](https://github.com/melekhmashiach/religion-calendar)
-</p>
-
 
 [rsoe-edis](https://rsoe-edis.org/eventMap)
 
