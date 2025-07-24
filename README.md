@@ -6,9 +6,8 @@
 10 ביולי 2025 - 11 ביולי 2025 {Tuesday 15 july 2025 - Wendesday 16 July 2025}
 <p align="center">
 يوم الخميس 14 محرم 1447 - يوم الجمعة 15 محرم 1447
-
+<p align="center">
 Unix time() value: 1752105600
-
 </p>
 
 
