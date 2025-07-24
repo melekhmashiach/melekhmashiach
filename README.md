@@ -1,7 +1,7 @@
 <p align="center">
 האָללי גייט פּראָיעקט - holly gate project - مشروع بوابة هولي
 <p align="center">
-יום א first day اليوم الأول
+יום א - first day - اليوم الأول
 <p align="center">
 י״ד בתמוז תשפ״ה - ט״ו בתמוז תשפ״ה
 <p align="center">
