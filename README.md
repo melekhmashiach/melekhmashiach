@@ -1,6 +1,6 @@
 Links
 
-[rsoe-edis !!!](https://rsoe-edis.org/eventMap)
+[rsoe-edis](https://rsoe-edis.org/eventMap)
 
 [ncbi](https://www.ncbi.nlm.nih.gov/guide/sequence-analysis/)
 
