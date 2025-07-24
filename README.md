@@ -12,10 +12,13 @@
 
 <p align="center">
 [rsoe-edis](https://rsoe-edis.org/eventMap)
+</p>
 <p align="center">
 [ncbi](https://www.ncbi.nlm.nih.gov/guide/sequence-analysis/)
+  </p>
 <p align="center">
 [templeinstitute](https://templeinstitute.org)
+  </p>
 <p align="center">
 mariage in jerusalem 
 <p align="center">
