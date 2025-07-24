@@ -9,7 +9,7 @@
 <p align="center">
 يوم الخميس 14 محرم 1447 - يوم الجمعة 15 محرم 1447
 <p align="center">
-Unix time() value: 1752105600
+unix time() value: 1752105600
 </p>
 
 [religion-calendar](https://github.com/melekhmashiach/religion-calendar)
